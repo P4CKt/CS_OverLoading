@@ -1,0 +1,16 @@
+C:\Users\mc_li\Music\odev_12\bin\Debug\net5.0\odev_12.exe
+C:\Users\mc_li\Music\odev_12\bin\Debug\net5.0\odev_12.deps.json
+C:\Users\mc_li\Music\odev_12\bin\Debug\net5.0\odev_12.runtimeconfig.json
+C:\Users\mc_li\Music\odev_12\bin\Debug\net5.0\odev_12.runtimeconfig.dev.json
+C:\Users\mc_li\Music\odev_12\bin\Debug\net5.0\odev_12.dll
+C:\Users\mc_li\Music\odev_12\bin\Debug\net5.0\ref\odev_12.dll
+C:\Users\mc_li\Music\odev_12\bin\Debug\net5.0\odev_12.pdb
+C:\Users\mc_li\Music\odev_12\obj\Debug\net5.0\odev_12.csproj.AssemblyReference.cache
+C:\Users\mc_li\Music\odev_12\obj\Debug\net5.0\odev_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc_li\Music\odev_12\obj\Debug\net5.0\odev_12.AssemblyInfoInputs.cache
+C:\Users\mc_li\Music\odev_12\obj\Debug\net5.0\odev_12.AssemblyInfo.cs
+C:\Users\mc_li\Music\odev_12\obj\Debug\net5.0\odev_12.csproj.CoreCompileInputs.cache
+C:\Users\mc_li\Music\odev_12\obj\Debug\net5.0\odev_12.dll
+C:\Users\mc_li\Music\odev_12\obj\Debug\net5.0\ref\odev_12.dll
+C:\Users\mc_li\Music\odev_12\obj\Debug\net5.0\odev_12.pdb
+C:\Users\mc_li\Music\odev_12\obj\Debug\net5.0\odev_12.genruntimeconfig.cache
